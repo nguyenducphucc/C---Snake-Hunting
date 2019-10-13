@@ -1,0 +1,7 @@
+﻿  code 1.cpp
+C:\Users\Administrator\source\repos\code 1\code 1\Header.h(28,28): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Administrator\source\repos\code 1\code 1\Header.h(28,34): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Administrator\source\repos\code 1\code 1\code 1.cpp(23,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\code 1\code 1\code 1.cpp(122,24): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\code 1\code 1\code 1.cpp(152,20): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+  code 1.vcxproj -> C:\Users\Administrator\source\repos\code 1\Debug\code 1.exe
